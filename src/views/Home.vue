@@ -10,7 +10,7 @@
       </div>
       <!-- Right Col -->
       <div class="w-full lg:w-1/2 lg:py-6 text-center">
-        <img class="object-contain h-40 w-full" src="undraw_wallet_aym5.svg">
+        <img class="object-contain h-40 w-full" src="../assets/images/undraw_wallet_aym5.svg">
       </div>
     </div>
   </div>
